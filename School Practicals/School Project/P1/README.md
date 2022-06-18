@@ -1,0 +1,3 @@
+## Program demonstrating a pattern followed in the Fibinacci sequence...
+### Functions folder is user made module.
+### Main program is fibo.py

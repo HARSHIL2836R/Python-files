@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/example_package/Mensuration.py
+src/example_package/__init__.py
+src/example_package/variables.py
+src/mensuration_package.egg-info/PKG-INFO
+src/mensuration_package.egg-info/SOURCES.txt
+src/mensuration_package.egg-info/dependency_links.txt
+src/mensuration_package.egg-info/top_level.txt
