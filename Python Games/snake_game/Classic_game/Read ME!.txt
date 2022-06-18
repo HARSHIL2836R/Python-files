@@ -1,0 +1,2 @@
+Assuming you have extracted the achive do not change the location of the 'resources' folder,
+that is, keep the Game.exe (or main.exe) Application in  same folder as the folder of resources
